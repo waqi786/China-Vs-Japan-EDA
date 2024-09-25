@@ -64,7 +64,7 @@ The dataset includes socio-economic indicators for both China and Japan:
 **Dataset Link:** https://www.kaggle.com/datasets/waqi786/china-vs-japan
 
 
-**License:**
+**License**
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
