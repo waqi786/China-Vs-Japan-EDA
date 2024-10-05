@@ -1,6 +1,6 @@
 # China-Vs-Japan-EDA
 
-**Overview**
+**Overview:**
 
 This project explores the socio-economic differences between China and Japan through comprehensive exploratory data analysis (EDA). By leveraging data visualization and analysis techniques, this study uncovers trends, patterns, and insights across key indicators such as population, economy, and more, providing a comparative look at the two countries.
 
